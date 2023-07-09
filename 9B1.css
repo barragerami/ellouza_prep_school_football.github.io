@@ -1,0 +1,25 @@
+#team-info {
+  text-align: center;
+  margin: 20px 0;
+}
+
+#team-name {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+table {
+  border-collapse: collapse;
+  width: 80%;
+  margin: 20px auto;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: lightgray;
+}

@@ -1,0 +1,66 @@
+/*#team-info {
+  text-align: center;
+  margin: 20px 0;
+}
+*/
+#team-name {
+  font-size: 36px;
+  font-weight: bold;
+  box-align: center;
+  color: red;
+}
+/*
+table {
+  border-collapse: collapse;
+  width: 80%;
+  margin: 20px auto;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: lightgray;
+}*/
+body {
+    background-color: #1d1d1d;
+    color: #f1f1f1;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    text-align: center;
+    color: red;
+  }
+  
+  table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 80%;
+    cursor: pointer;
+  }
+  
+  th, td {
+    text-align: center;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #740606f6;
+    color: #000;
+    font-size: 16px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #2d2d2d;
+  }
+  
+  tr:hover {
+    background-color: #444444;
+  }
+  
+  td.score {
+    font-weight: bold;
+  }
